@@ -17,7 +17,7 @@ You can perform simple calculations as in the simple calculator. This whole proj
 
 - Download the zip file 
 - extract zip to desktop
-- 
+- run the main.py file
 
 
 
